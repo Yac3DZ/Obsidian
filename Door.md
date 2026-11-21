@@ -23,8 +23,8 @@
 - [x] fix shading of the profile
 - [x] find a way to set grain direction for the profile
 
-- [ ] Add  **Offset Mid Rail** option
-- [ ] Add **Offset Mid Mull** option
+- [ ]Add  **Offset Mid Rail** option
+- [ ]Add **Offset Mid Mull** option
 
 - [ ]Add **Bake** option to speed animation
 - [x] Fix Groove Bug on the edges (depends on width)
