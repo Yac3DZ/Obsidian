@@ -17,14 +17,14 @@
 - [ ] Improve UI for top bottom mid arch/ curve
 - [ ] Add more options for round panel type
 - [ ] Fix round panel radius option, when having left and right options to full radius.
-- [x] add option for round top and arched top door and frame using boolean
+- [x]  add option for round top and arched top door and frame using boolean
 
 - [x] make a node setup that unifies the profile dimensions - using Bounding box
 - [x] fix shading of the profile
 - [x] find a way to set grain direction for the profile
 
-- [ ]Add  **Offset Mid Rail** option
-- [ ]Add **Offset Mid Mull** option
+- [ ] Add  **Offset Mid Rail** option
+- [ ] Add **Offset Mid Mull** option
 
 - [ ]Add **Bake** option to speed animation
 - [x] Fix Groove Bug on the edges (depends on width)
