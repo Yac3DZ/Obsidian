@@ -1,2 +1,3 @@
 - [ ] Resize images
--  [ ] Drage and drop images on windows
+- [ ] Drage and drop images on windows
+- [ ] 
