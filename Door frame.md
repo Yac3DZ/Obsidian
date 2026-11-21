@@ -7,4 +7,6 @@ Door Framing
 4. Arch Frame
 
 
-- 
+- Frame Type
+1. Profiled
+2. Paneled,  works with Rectangle shape only
