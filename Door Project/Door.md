@@ -4,8 +4,8 @@
 - for the complicated ones we have to use separate geo nodes.
 
 # todo
-- [ ] create the logic for the simple grid system
-- [x] add option to switch between horizontal and vertical
+- [x] create the logic for the simple grid system
+- [ ] add option to switch between horizontal and vertical
 - [ ] Add option for mid Curve / Arch
 - [ ] Add option for bottom Curve / Arch
 - [ ] implement some presets.
