@@ -4,4 +4,4 @@ TESTA
 testing images ::::  
 
 
-`Code if (x )`
+`Code if (x = 0; x < 1; x++) return;`
