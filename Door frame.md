@@ -11,4 +11,5 @@ Door Framing
 1. Profiled
 2. Paneled,  works with Rectangle shape only
 
-- 
+- Frame Door Gap
+- Frame Dimensions
