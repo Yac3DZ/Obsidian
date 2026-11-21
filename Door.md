@@ -26,7 +26,7 @@
 - [ ] Add  **Offset Mid Rail** option
 - [ ] Add **Offset Mid Mull** option
 
-- [ ] Add **Bake** option to speed animation
+- [ ]Add **Bake** option to speed animation
 - [x] Fix Groove Bug on the edges (depends on width)
 
 
@@ -41,4 +41,4 @@
 - [ ] Add Hinges types
 
 ### Material
-- [ ] Add material grain
+- [x] Add material grain
