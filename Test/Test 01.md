@@ -8,5 +8,5 @@ testing images ::::  efeveev
 `Code if (x = 0; x < 1; x++) return;`
 
 
-- [ ] ==HALLO==   
+- [x] ==HALLO==   
 - [ ]  [[link]]
