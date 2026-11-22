@@ -12,7 +12,10 @@ wegweggewegeg
 egeg  
    egwehiweoaotwo weoiiwe wetj
    wewetwet
- ewrer
+ < ewrer >>
+if (x = 0; food.apple < 3; x++) {
+    return 1 + x;
+}
  tyktyk
  tykyk
 ewfeee wetopw etjpow et
