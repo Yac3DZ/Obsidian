@@ -1,5 +1,5 @@
 ![[DF-10.jpg|198]]
-TESTA
+Strata
 
 
 testing images ::::  
