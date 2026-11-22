@@ -18,7 +18,8 @@ Your notes are plain Markdown files in a folder on this device.
 - `Ctrl+O` opens the quick switcher, the calendar button opens today's daily note
 -  bedtime mma
 - lucast
-- tracy
+- tracy 
+- e
 
 
 
