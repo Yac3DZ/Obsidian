@@ -19,7 +19,7 @@ Your notes are plain Markdown files in a folder on this device.
 -  b
 - lucast
 - tracy 
-- 
+- [x] 
 
 
 
