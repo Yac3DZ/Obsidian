@@ -1,4 +1,5 @@
-![[DF-10.jpg|198]]            Strata
+![[DF-10.jpg|198]]            
+Strata
 testing images ::::  
 
 efeveev
