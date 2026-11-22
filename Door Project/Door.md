@@ -4,14 +4,15 @@
 - for the complicated ones we have to use separate geo nodes.
 
 # todo
-- [x] create the logic for the simple grid system
-- [ ] add option to switch between horizontal and vertical
+
+- [ ] create the logic for the simple grid system
+- [x] add option to switch between horizontal and vertical
 - [ ] Add option for mid Curve / Arch
 - [ ] Add option for bottom Curve / Arch
 - [ ] implement some presets.
 - [x] Find a way to make the space between vertices is dependent on sin wave
 - [ ] add advanced option for arch/curve controls, like making it for each column or combined.
-- [x] fix the mid mulls gap issue when having one column
+- [ ] fix the mid mulls gap issue when having one column
 - [ ] fix wood material in the inside.
 - [x] find a way to rotate the door without breaking the material texture object coordinates.
 - [ ] Improve UI for top bottom mid arch/ curve
@@ -42,3 +43,4 @@
 
 ### Material
 - [x] Add material grain
+- [ ] egeg
