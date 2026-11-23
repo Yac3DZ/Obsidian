@@ -12,5 +12,5 @@
             
 - [ ] in Home, the todays note is too bright and big in dark theme, find a way to fix it
 
-Phone Bugs 🐛 
+Phone Bugs 🐛 gjfhvf
 
