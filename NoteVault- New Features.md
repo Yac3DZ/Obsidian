@@ -15,4 +15,11 @@
 Phone Bugs 🐛 gjfhvf
 - [ ] the helper panel is hiding the text when I'm typing on phone, it's also a bit too big
 - [ ] also when typing the text is not moving up to stayed visible it just hits under the  panel helper.
-- [ ] can we check why the performance is bad or it might be the scrolling,  in the home page and folder side  
+- [ ] can we check why the performance is bad or it might be the scrolling,  in the home page and folder side panel
+
+
+### general bugs
+
+- [ ] can we have option to change round corner to sharp and or control corner radius
+- [ ] for some reason we can't add space between lines, in read mode the space is removed
+- [ ] 
