@@ -9,6 +9,7 @@ efeveev
 
 - [x] ==HALLO==   
 - [ ]  [[link]]
+- [ ] huge fundraiser 
 
 
 - rgrrhrh
