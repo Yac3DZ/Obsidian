@@ -6,7 +6,7 @@ Your notes are plain Markdown files in a folder on this device.
 - Create notes with the **+** button (or `Ctrl+N` on Windows)
 - Link notes with double brackets, like [[Ideas]] — tap a link to open or create it
 - Toggle edit / preview with the eye button (or `Ctrl+E`)
-- Use the toolbar for **bold**, *italic*, ==highlight==, ~~strike~~ and more
+- Use the ==toolbar== for **bold**, *italic*, ==highlight==, ~~strike~~ and more
 
 ## Tasks
 - [x] Install NoteVault
