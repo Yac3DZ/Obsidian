@@ -15,7 +15,7 @@ Your notes are plain Markdown files in a folder on this device.
 ## Tips
 - Insert images with the image button — they are stored in `attachments/`
 - Tag notes with #ideas and tap a tag to find every note that uses it
-- `Ctrl+O` opens the quick switcher, the calendar button opens today's daily note
+- `Ctrl+O` opens the quick switcher, the calendar button ==opens== today's daily note
 -  b
 - lucast
 - tracy 
