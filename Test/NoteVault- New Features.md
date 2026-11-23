@@ -1,22 +1,14 @@
-- [ ] Resize images
-- [ ] Drage and drop images on windows
+- [x] Resize images
+- [x] Drage and drop images on windows
 - [ ] selecting a foloder should make it the active folder so when adding a new note it moves automaticaly inside that folder, this should work on windows at least
 - [ ] add the ability to change theme color
-- [ ] change icon
-- [ ] change design style
+- [x] change icon
+- [x] change design style
+- [ ] add the ability to have space between the lines, no it just removes the spaces we add in read mode
 
-```
-change design style
-eegewgweg
-wegweggewegeg
-egeg  
-   egwehiweoaotwo weoiiwe wetj
-   wewetwet
- < ewrer >>
-if (x = 0; food.apple < 3; x++) {
-    return 1 + x;
-}
- tyktyk
- tykyk
-ewfeee wetopw etjpow et
-```
+ 
+   
+   
+            
+- [ ] in Home, the todays note is too bright and big in dark theme, find a way to fix it
+
