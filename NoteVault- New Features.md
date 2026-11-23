@@ -13,4 +13,5 @@
 - [ ] in Home, the todays note is too bright and big in dark theme, find a way to fix it
 
 Phone Bugs 🐛 gjfhvf
-
+- [ ] the helper panel is hiding the text when I'm typing on phone, it's also a bit too big
+- [ ] also when typing the text is not moving up to stayed visible it just hits under the  panel 
