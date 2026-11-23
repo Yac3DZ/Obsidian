@@ -21,6 +21,6 @@ Door Framing
 ## RGRG
 - [x] gew ewgwg weg
 - [ ]  we *gweg*  weg **wege** g.
-1. `wegw` e weg~~ weg~~
+1. `wegw` e weg [[weg]]
 2. hjhj
-3. kjk ==gfuyoi ==
+3. kjk  ==gfuyoi ==
