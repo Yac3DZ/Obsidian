@@ -4,7 +4,7 @@
 - [x] add the ability to change theme color
 - [x] change icon
 - [x] change design style
-- [ ] add the ability to have space between the lines, no it just removes the spaces we add in read mode
+- [x] add the ability to have space between the lines, no it just removes the spaces we add in read mode
 
  
    
