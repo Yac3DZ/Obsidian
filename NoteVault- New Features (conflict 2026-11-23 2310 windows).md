@@ -23,5 +23,5 @@
 
 ### general bugs
 
-- [ ] can we have option to change round corner to sharp and or control corner radius
-- [ ] for some reason we can't add space between lines, in read mode the space is removed
+- [x] can we have option to change round corner to sharp and or control corner radius
+- [x] for some reason we can't add space between lines, in read mode the space is removed
