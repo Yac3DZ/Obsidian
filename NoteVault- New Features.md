@@ -16,7 +16,7 @@
 - [x] the helper panel is hiding the text when I'm typing on phone, it's also a bit too big
 - [ ] also when typing the text is not moving up to stayed visible it just hits under the  panel helper.
 - [ ] can we check why the performance is bad or it might be the scrolling,  in the home page and folder side panel
-1. 
+- [ ] make the read and edit button as icon instead of text
 
 
 ### general bugs
