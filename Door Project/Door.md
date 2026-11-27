@@ -37,14 +37,13 @@
 - [x] when deleteing a door, its boolean cutout should be deleted as well
 - [x] use Float Boolean Solver, and extend the bottom cutout to avoid z fighting error in boolean
 User Recomendation: ==Make sure the wall is clear from edges to make the boolean work correctly==
-- [ ] Add option to flip the door when placing it.
+- [ ] Add option to flip the door when placing it
 
 
 ### Frame
 - [ ] Plan frame structure
 - [ ] Add frame types
 - [ ] add round frame (not just arch frame)
-- [ ]  rgrg
 
 ### Hinges
 - [ ] Plan Hinges structure
@@ -52,4 +51,3 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
 
 ### Material
 - [x] Add material grain
-- [ ] ~~egeg~~
