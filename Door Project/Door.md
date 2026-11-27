@@ -38,10 +38,12 @@
 - [x] use Float Boolean Solver, and extend the bottom cutout to avoid z fighting error in boolean
 User Recomendation: ==Make sure the wall is clear from edges to make the boolean work correctly==
 - [ ] Add option to flip the door when placing it
+- [ ] Remove unnessecary options
+- [ ] 
 
 
 ### Frame
-- [ ] Plan frame structure
+- [x] Plan frame structure [[It will consist of ]]
 - [ ] Add frame types
 - [ ] add round frame (not just arch frame)
 
