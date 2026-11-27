@@ -34,8 +34,9 @@
 ### Door Addon
 - [x] Implement Twinmotion like drage and drop door to fit exactly where the opening is
 - [x] Drage drop onto a wall adds boolean and cuts out where the door should be
-- [ ] when deleteing a door, its boolean cutout should be deleted as well
-- [ ] use Float Boolean Solver, and extend the bottom cutout to avoid z fighting error in boolean
+- [x] when deleteing a door, its boolean cutout should be deleted as well
+- [x] use Float Boolean Solver, and extend the bottom cutout to avoid z fighting error in boolean
+User Recomendation: ==Make sure the wall is clear from edges to make the boolean work correctly==
 
 
 
