@@ -31,6 +31,14 @@
 - [x] Fix Groove Bug on the edges (depends on width)
 
 
+### Door Addon
+- [x] Implement Twinmotion like drage and drop door to fit exactly where the opening is
+- [x] Drage drop onto a wall adds boolean and cuts out where the door should be
+- [ ] when deleteing a door, its boolean cutout should be deleted as well
+- [ ] use Float Boolean Solver, and extend the bottom cutout to avoid z fighting error in boolean
+
+
+
 ### Frame
 - [ ] Plan frame structure
 - [ ] Add frame types
