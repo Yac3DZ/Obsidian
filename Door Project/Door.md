@@ -62,10 +62,13 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
       3. Simple 1 between 2
 - [ ] Add Frame Topes:
 ![[Screenshot-2026-11-28-010742.png|425]]
+plane how to cut out holes for the hinges and the latch plats on the frame 
+
 
 ### Hinges
 - [ ] Plan Hinges structure
 - [ ] Add Hinges types
+- [ ] plane how to cut out holes for the hinges and the latch plats on the frame 
 
 ### Material
 - [x] Add material grain
