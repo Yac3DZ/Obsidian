@@ -3,8 +3,8 @@
 - it will contain two types horizontal or vertical, to make it less complicated.
 - for the complicated ones we have to use separate geo nodes.
 
-# todo
 
+# todo
 - [ ] create the logic for the simple grid system
 - [x] add option to switch between horizontal and vertical
 - [ ] Add option for mid Curve / Arch
@@ -50,6 +50,7 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
 - [ ] Add three categoeries of door handle 10 from each category: Knob, Bar, handle
 - [ ] Add Hinges types
 
+
 ### Frame
 - [x] Plan frame structure  : It will consist of base frame and two covers from the inside and outside
 - [x] Add frame Shape:  **Arch, Round Corner, Rectangle ** and **Round**
@@ -62,7 +63,7 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
       3. Simple 1 between 2
 - [ ] Add Frame Topes:
 ![[Screenshot-2026-11-28-010742.png|425]]
-plane how to cut out holes for the hinges and the latch plats on the frame 
+- [ ] plane how to cut out holes for the hinges and the latch plats on the frame 
 
 
 ### Hinges
