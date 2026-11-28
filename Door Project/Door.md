@@ -73,7 +73,7 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
 - [ ] plane how to cut out holes for the hinges and the latch plats on the frame 
 
 ### Material
-- [x] Add material grain
+- [ ] Add material grain
 
 
 ### Session Part 1
