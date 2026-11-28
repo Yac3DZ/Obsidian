@@ -40,6 +40,7 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
 - [ ] Add option to flip the door when placing it
 - [ ] Remove unnessecary options
 - [ ] implement the fourth option "round top"
+- [ ] can we fix snaping issues when boolean is using the cutout door collection
 
 
 ### Door Handle
@@ -73,3 +74,10 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
 
 ### Material
 - [x] Add material grain
+
+
+### Session Part 1
+- [ ] limit round corner radius to the width of the door
+- [ ] fix snaping issue
+- [ ] use math instead of inset for door frame shape
+- [ ] add 3 frame types
