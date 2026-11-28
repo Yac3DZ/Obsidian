@@ -48,8 +48,12 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
 - [x] add round frame (not just arch frame)
 - [ ] Add a functional Base Frame
 - [ ] Add outer frame cover with profile design options
-- [ ] Add frame Type:
-1. Profile Frame
+- [ ] Add frame Design:
+      1. Profile Frame
+      2. Classic 1 on 2
+- [ ] Add Frame Topes:
+
+
 
 ### Hinges
 - [ ] Plan Hinges structure
