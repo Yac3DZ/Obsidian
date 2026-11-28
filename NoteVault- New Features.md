@@ -23,4 +23,5 @@
 
 - [ ] can we have option to change round corner to sharp and or control corner radius
 - [ ] for some reason we can't add space between lines, in read mode the space is removed
-- [ ] 
+- [ ]  I can't edit image on phone 
+- [ ] add option to compare conflicting files and choose the one to keep and or delete
