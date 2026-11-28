@@ -44,11 +44,11 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
 
 ### Door Handle
 - build a dynamic door handle system, it consists of 2 main parts:
-1. Outside: 
-2. Inside: Consists of the Latch
+      1. Outside: Consist of Door handle
+      2. Inside: Consists of Latch
+
 - [ ] Add three categoeries of door handle 10 from each category: Knob, Bar, handle
 - [ ] Add Hinges types
-
 
 ### Frame
 - [x] Plan frame structure  : It will consist of base frame and two covers from the inside and outside
