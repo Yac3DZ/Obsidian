@@ -39,13 +39,17 @@
 User Recomendation: ==Make sure the wall is clear from edges to make the boolean work correctly==
 - [ ] Add option to flip the door when placing it
 - [ ] Remove unnessecary options
-- [ ] 
+- [ ] implement the fourth option "round top"
 
 
 ### Frame
-- [x] Plan frame structure [[It will consist of ]]
-- [ ] Add frame types
-- [ ] add round frame (not just arch frame)
+- [x] Plan frame structure  : It will consist of base frame and two covers from the inside and outside
+- [x] Add frame Shape:  **Arch, Round Corner, Rectangle ** and **Round**
+- [x] add round frame (not just arch frame)
+- [ ] Add a functional Base Frame
+- [ ] Add outer frame cover with profile design options
+- [ ] Add frame Type:
+1. Profile Frame
 
 ### Hinges
 - [ ] Plan Hinges structure
