@@ -42,6 +42,14 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
 - [ ] implement the fourth option "round top"
 
 
+### Door Handle
+- build a dynamic door handle system, it consists of 2 main parts:
+1. Outside: 
+2. Inside: Consists of the Latch
+- [ ] Add three categoeries of door handle 10 from each category: Knob, Bar, handle
+- [ ] Add Hinges types
+
+
 ### Frame
 - [x] Plan frame structure  : It will consist of base frame and two covers from the inside and outside
 - [x] Add frame Shape:  **Arch, Round Corner, Rectangle ** and **Round**
@@ -51,10 +59,9 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
 - [ ] Add frame Design:
       1. Profile Frame
       2. Classic 1 on 2
+      3. Simple 1 between 2
 - [ ] Add Frame Topes:
 ![[Screenshot-2026-11-28-010742.png|425]]
-
-
 
 ### Hinges
 - [ ] Plan Hinges structure
