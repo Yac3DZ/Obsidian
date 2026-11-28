@@ -52,6 +52,7 @@ User Recomendation: ==Make sure the wall is clear from edges to make the boolean
       1. Profile Frame
       2. Classic 1 on 2
 - [ ] Add Frame Topes:
+![[Screenshot-2026-11-28-010742.png|425]]
 
 
 
